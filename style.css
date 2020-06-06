@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:#fff;
+}
+body {
+    background-color: #131313;
+}
+#click {
+    font-size: 20px;
+    margin-top: 20px;
+    text-align: center;
+}
+#coordinates {
+    margin-top: 20px;
+    margin-left: 40px;
+}
+#canvas {
+    position: absolute;
+    top:80px;
+    left:50%;
+    transform: translateX(-50%);
+    border:1px solid #fff;
+    border-radius: 2px;
+}
