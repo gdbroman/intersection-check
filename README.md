@@ -3,6 +3,6 @@ An algorithm checking if the lines intersect when creating an polygon (given a l
 
 Can be helpful for geofences in the Google Maps API.
 
-Demo @ https://gustafbroman.github.io/polygon-intersection-check-algorithm/
+Demo @ https://broman-builds.github.io/polygon-intersection-check-algorithm/
 
 ![](/assets/screenshot.PNG)
